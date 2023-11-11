@@ -4,6 +4,8 @@ title: "About template"
 
 About this site
 
+Do a simple calculation
+
 ```{r}
 1 + 1
 ```
